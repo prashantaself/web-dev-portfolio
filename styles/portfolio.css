@@ -1,5 +1,17 @@
 
 
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
 /* nav styles */
 nav {
     display: flex;
