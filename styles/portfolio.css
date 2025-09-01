@@ -22,3 +22,7 @@ nav {
     font-weight: 800;
     font-size: 45px;
 }
+
+nav ul li {
+    list-style: none;
+}
