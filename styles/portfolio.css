@@ -26,3 +26,7 @@ nav {
 nav ul li {
     list-style: none;
 }
+
+nav li a {
+    text-decoration: none;
+}
