@@ -11,7 +11,9 @@
 nav {
     display: flex;
 }
-
+.dark-2 {
+    color: #474747;
+}
 /* shared style */
 
 .text-primary {
@@ -29,4 +31,5 @@ nav ul li {
 
 nav li a {
     text-decoration: none;
+    font-size: 20px;
 }
