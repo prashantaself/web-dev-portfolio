@@ -11,6 +11,13 @@
 nav {
     display: flex;
 }
+
+/* shared style */
+
+.text-primary {
+    color: #FD6E0A;
+}
+
 .nav-title{
     font-weight: 800;
     font-size: 45px;
