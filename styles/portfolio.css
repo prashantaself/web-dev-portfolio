@@ -7,17 +7,25 @@
 }
 
 
-/* nav styles */
-nav {
-    display: flex;
-}
-.dark-2 {
-    color: #474747;
-}
 /* shared style */
 
 .text-primary {
     color: #FD6E0A;
+}
+
+.dark-2 {
+    color: #474747;
+}
+
+.btn-primary {
+    background-color: #FD6E0A;
+}
+
+/* nav styles */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .nav-title{
