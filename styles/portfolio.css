@@ -59,10 +59,13 @@ nav li a {
 .banner {
     display: flex;
     justify-content: space-between;
+    margin: 0 38px 0 230px;
 }
+
  .banner-content {
     max-width: 585px;
  }
+
 .banner-greetings {
     font-size: 45px;
     font-weight: 600;
