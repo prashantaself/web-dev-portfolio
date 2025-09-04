@@ -34,7 +34,7 @@ nav {
     justify-content: space-between;
 }
 
-.nav-title{
+.nav-title {
     font-weight: 800;
     font-size: 45px;
 }
@@ -54,8 +54,15 @@ nav li a {
     font-size: 20px;
 }
 
-/* banner styles */
 
+/* banner styles */
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+ .banner-content {
+    max-width: 585px;
+ }
 .banner-greetings {
     font-size: 45px;
     font-weight: 600;
@@ -64,4 +71,9 @@ nav li a {
 .banner-title {
     font-size: 85px;
     font-weight: bold;
+}
+
+.banner-profile-picture {
+    width: 580px;
+    height: 676px;
 }
