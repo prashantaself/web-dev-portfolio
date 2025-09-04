@@ -32,6 +32,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 230px 0 226px;
 }
 
 .nav-title {
