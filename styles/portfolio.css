@@ -102,11 +102,9 @@ nav li a {
     justify-self: center;
 }
 
-.about-me>div {
+.about-me .content {
+    justify-self: center;
     height: 288px;
     width: 827px;
     background-color: #FFFFFF;
-    align-items: center;
-    justify-self: center;
-    margin: 131px 157px 131px 156px;
 }
