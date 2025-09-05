@@ -99,11 +99,10 @@ nav li a {
     height: 550px;
     width: 1140px;
     background-color: #FFF8F3;
-    justify-self: center;
+    justify-content: center;
 }
 
 .about-me .content {
-    justify-self: center;
     height: 288px;
     width: 827px;
     background-color: #FFFFFF;
