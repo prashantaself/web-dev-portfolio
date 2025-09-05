@@ -90,3 +90,13 @@ nav li a {
     width: 580px;
     height: 676px;
 }
+
+
+
+/* about me */
+
+.about-me{
+    height: 550px;
+    width: 1140px;
+    background-color: #FFF8F3;
+}
