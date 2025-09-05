@@ -99,6 +99,7 @@ nav li a {
     height: 550px;
     width: 1140px;
     background-color: #FFF8F3;
+    justify-self: center;
 }
 
 .about-me>div {
@@ -106,6 +107,6 @@ nav li a {
     width: 827px;
     background-color: #FFFFFF;
     align-items: center;
-    justify-content: center;
+    justify-self: center;
     margin: 131px 157px 131px 156px;
 }
