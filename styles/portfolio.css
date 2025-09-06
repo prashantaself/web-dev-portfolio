@@ -97,15 +97,25 @@ nav li a {
 
 /* about me */
 
+.about-container {
+    margin: 86px 0px;
+}
+
 .about-me {
     height: 550px;
     width: 1140px;
-    background-color: #FFF8F3;
+    background-color: #df8849;
+    display: flex;
     justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
-.about-me .content {
+.about-content {
     height: 288px;
     width: 827px;
     background-color: #FFFFFF;
+    justify-items: center;
+
+
 }
