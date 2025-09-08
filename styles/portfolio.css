@@ -27,7 +27,12 @@
     border: none;
 }
 
-/* header? */
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+/* header */
 .header {
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
