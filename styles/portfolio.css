@@ -107,11 +107,15 @@ nav li a {
     height: 676px;
 }
 
+/* main styles */
+main {
+    max-width: 1140px;
+}
 
 
 /* about styles */
 
  .about{
     border-radius: 10px;
-    
+
  }
