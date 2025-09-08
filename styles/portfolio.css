@@ -11,7 +11,7 @@
 
 .secondary-bg{
     background-color: #FFF8F3;
-    
+
 }
 
 .text-primary {
@@ -57,9 +57,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* margin: 0 230px 0 226px; */
-    /* border: 2px solid; */
-    padding: 0px 140px;
+    padding: 0 140px;
 }
 
 .nav-title {
@@ -111,6 +109,9 @@ nav li a {
 
 
 
-/* about me */
+/* about styles */
 
- 
+ .about{
+    border-radius: 10px;
+    
+ }
