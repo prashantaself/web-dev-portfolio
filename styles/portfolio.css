@@ -33,6 +33,11 @@
     color: #181818;
 }
 
+.section-description {
+    font-size: 18px;
+    color: #737373;
+}
+
 /* header */
 .header {
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
