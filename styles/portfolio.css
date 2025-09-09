@@ -122,3 +122,7 @@ main {
     text-align: center;
     margin-top: 85px;
 }
+
+.about-items {
+    display: flex;
+}
