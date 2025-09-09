@@ -123,12 +123,18 @@ main {
     margin-top: 85px;
 }
 
+.about-description {
+    background-color: #FFFFFF;
+    border: #000000 solid;
+}
+
 .about-items {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
 
 .item-description {
     font-weight: bold ;
+    
 }
