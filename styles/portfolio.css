@@ -124,9 +124,10 @@ main {
     margin-top: 85px;
 }
 
-.about-description {
+.description-border {
     background-color: #FFFFFF;
     border: #000000 solid;
+    size: 1px;
 }
 
 .about-items {
