@@ -43,6 +43,10 @@
     color: #737373;
 }
 
+.text-center{
+    text-align: center;
+}
+
 /* header */
 .header {
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
@@ -124,7 +128,7 @@ main {
     margin-top: 85px;
 }
 
-.description-border {
+.section-border {
     background-color: #FFFFFF;
     border: #000000 solid;
     size: 1px;
@@ -138,5 +142,5 @@ main {
 
 .item-description {
     font-weight: bold ;
-
+    color: #474747;;
 }
