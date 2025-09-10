@@ -144,3 +144,9 @@ main {
     font-weight: bold ;
     color: #474747;;
 }
+
+/* what i do style */
+
+.skills-container{
+    display: flex;
+}
