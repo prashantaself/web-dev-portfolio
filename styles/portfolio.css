@@ -89,7 +89,6 @@ nav li a {
 .banner {
     display: flex;
     justify-content: space-between;
-    padding: px;
     padding-left: 150px;
     padding-right: 25px;
 }
@@ -154,6 +153,8 @@ main {
     gap: 16px;
 }
 
-.skills {
+.skill {
     padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
 }
