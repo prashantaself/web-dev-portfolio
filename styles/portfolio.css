@@ -117,6 +117,9 @@ main {
     max-width: 950px;
     margin: 0 auto;
 }
+main section {
+    margin-top: 85px;
+}
 
 
 /* about styles */
@@ -126,7 +129,6 @@ main {
     border-radius: 6px;
     padding: 85px 105px;
     text-align: center;
-    margin-top: 85px;
 }
 
 .section-border {
