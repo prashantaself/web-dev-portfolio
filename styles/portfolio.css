@@ -163,6 +163,6 @@ main section {
 
 
 /* Resume Section */
-.resume {
+.resume-container {
     display: flex;
 }
