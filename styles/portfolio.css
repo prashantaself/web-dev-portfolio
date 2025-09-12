@@ -165,4 +165,9 @@ main section {
 /* Resume Section */
 .resume-container {
     display: flex;
+    gap: 16px;
+}
+
+.experience-description{
+    color: #757575;
 }
