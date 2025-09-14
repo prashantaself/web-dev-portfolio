@@ -188,3 +188,10 @@ main section {
 .resume-download-cv {
     margin-top: 33px;
 }
+
+
+
+/* Footer Section */
+footer {
+    display: flex;
+}
