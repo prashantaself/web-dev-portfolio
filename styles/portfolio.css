@@ -108,8 +108,8 @@ nav li a {
 }
 
 .banner-profile-picture {
-    width: 391px;
-    height: 452px;
+    width: 350px;
+    height: 480px;
 }
 
 /* main styles */
@@ -201,7 +201,7 @@ footer {
 
 footer input[type="text"],
 footer input[type="email"],
-footer textarea {
+footer text {
     display: block;
     border: none;
     border-radius: 3px;
