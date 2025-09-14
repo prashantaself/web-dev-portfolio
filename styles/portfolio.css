@@ -198,3 +198,14 @@ footer {
     gap: 16px;
     margin-top: 85px;
 }
+
+footer input[type="text"],
+footer input[type="email"] {
+    display: block;
+    border: none;
+    border-radius: 3px;
+    height: 42px;
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 16px;
+}
