@@ -193,5 +193,7 @@ main section {
 
 /* Footer Section */
 footer {
+    padding: 87px 154px;
     display: flex;
+    gap: 67px;
 }
