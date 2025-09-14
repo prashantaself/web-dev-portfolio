@@ -195,5 +195,6 @@ main section {
 footer {
     padding: 87px 154px;
     display: flex;
-    gap: 67px;
+    gap: 16px;
+    margin-top: 85px;
 }
