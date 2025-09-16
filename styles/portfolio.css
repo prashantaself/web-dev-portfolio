@@ -62,12 +62,14 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 34px;
+    padding-left: 151px;
+    padding-right: 154px;
 }
 
 .nav-title {
     font-weight: 536;
     font-size: 30px;
-    
 }
 
 nav ul {
@@ -90,22 +92,30 @@ nav li a {
 .banner {
     display: flex;
     justify-content: space-between;
-    padding-left: 140px;
+    padding-left: 154px;
     padding-right: 25px;
 }
 
 .banner-content {
     max-width: 390px;
+    padding-right: 110px;
+    /* padding-top: 200px; */
 }
 
 .banner-greetings {
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 118px;
+    height: 40px;
 }
 
 .banner-title {
-    font-size: 56px;
-    font-weight: bold;
+    font-size: 52px;
+    font-weight: 333px;
+    height: 77px;
+}
+
+.banner-description {
+    
 }
 
 .banner-profile-picture {
