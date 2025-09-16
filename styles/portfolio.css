@@ -53,7 +53,6 @@
     background-repeat: no-repeat;
     background-position: top left, bottom right;
     background-color: #FFF8F3;
-
 }
 
 
@@ -62,7 +61,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 34px;
+    /* padding-top: 34px; */
     padding-left: 151px;
     padding-right: 154px;
 }
@@ -99,7 +98,7 @@ nav li a {
 .banner-content {
     max-width: 390px;
     padding-right: 110px;
-    /* padding-top: 200px; */
+    /* padding-top: 123px; */
 }
 
 .banner-greetings {
@@ -112,10 +111,6 @@ nav li a {
     font-size: 52px;
     font-weight: 333px;
     height: 77px;
-}
-
-.banner-description {
-    
 }
 
 .banner-profile-picture {
