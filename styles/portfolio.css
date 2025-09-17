@@ -62,7 +62,7 @@
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: left center, bottom right;
-    background-size: 70px, 550px ;
+    background-size: 70px, 513px ;
     background-color: #FFF8F3;
 }
 
@@ -102,6 +102,7 @@ nav li a {
 .banner {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding-left: 154px;
     padding-right: 25px;
 }
