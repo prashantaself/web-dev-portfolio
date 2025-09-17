@@ -32,6 +32,16 @@
     border: none;
 }
 
+.btn-secondary {
+    font-weight: bold;
+    margin-left: 10px;
+    color:  #FD6E0A;
+    font-size: 13px;
+    padding: 11px 23px;
+    border-radius: 3px;
+    border:  solid #FD6E0A;
+}
+
 .section-title {
     font-size: 23px;
     font-weight: bold;
