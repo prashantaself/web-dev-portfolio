@@ -153,7 +153,6 @@ main section {
 .section-border {
     background-color: #FFFFFF;
     border: #000000 solid;
-    size: 1px;
 }
 
 .about-items {
@@ -165,7 +164,7 @@ main section {
 .item-description {
     font-weight: bold;
     color: #474747;
-    ;
+    
 }
 
 /* skills section style */
