@@ -7,6 +7,7 @@
 }
 
 
+
 /* shared style */
 
 .secondary-bg {
@@ -57,6 +58,8 @@
     text-align: center;
 }
 
+
+
 /* header */
 .header {
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
@@ -65,6 +68,7 @@
     background-size: 70px, 513px ;
     background-color: #FFF8F3;
 }
+
 
 
 /* nav styles */
@@ -96,6 +100,7 @@ nav li a {
     text-decoration: none;
     font-size: 13px;
 }
+
 
 
 /* banner styles */
@@ -130,6 +135,8 @@ nav li a {
     height: 450px;
 }
 
+
+
 /* main styles */
 main {
     max-width: 950px;
@@ -139,6 +146,7 @@ main {
 main section {
     margin-top: 85px;
 }
+
 
 
 /* about styles */
